@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://btc.zhenkeblog.cn
+title: Bitcoin News
+subtitle: 一个Bitcoin/Litecoin 新闻网站.
+author: Zhen Kyle
 simple_search: http://google.com/search
 description:
 
@@ -69,8 +69,8 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
-twitter_tweet_button: true
+twitter_user: 
+twitter_tweet_button: false
 
 # Google +1
 google_plus_one: false
@@ -90,7 +90,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: cnbitcoinnews
 disqus_show_comment_count: false
 
 # Google Analytics

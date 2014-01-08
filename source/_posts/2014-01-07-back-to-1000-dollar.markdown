@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Zynga测试虚拟货币付款 比特币价格重返1000美元"
+date: 2014-01-07 17:04:00 +0800
+comments: true
+categories: 
+---
+
+{% img /images/bitcoin/zynga-accept-bitcoin.jpg %}
+
+北京时间1月7日凌晨消息，在游戏平台运营商Zynga宣布将会测试接受虚拟货币作为游戏付款形式之后，比特币的报价在周一回到了1000美元上方。
+
+Zynga在上周六通过Reddit宣布，将会允许其运营的Farmville2和CityVille等七个游戏的用户通过BitPay这个比特币服务供应商进行付款。声明说，“Zynga一直致力于在游戏中融合玩家反馈来提升客户体验。我们期待听到玩家对比特币测试的回应，以此继续我们提供最佳游戏体验的使命。”
+
+比特币交易所Mt.Gox周一上午时候的比特币报价是1072美元。 （孔军）
+
+[来源](http://finance.qq.com/a/20140107/000593.htm)

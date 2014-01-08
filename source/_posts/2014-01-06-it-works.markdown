@@ -1,0 +1,9 @@
+---
+layout: post
+title: "It works"
+date: 2014-01-06 15:19:47 +0800
+comments: true
+categories: 
+---
+
+可以工作了。后续添加内容。
