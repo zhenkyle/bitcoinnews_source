@@ -6,7 +6,7 @@ comments: true
 categories: 
 ---
 
-{% img /images/bitcoin/zynga-accept-bitcoin.jpg %}
+{% img left /images/bitcoin/zynga-accept-bitcoin.jpg 320 240 %}
 
 北京时间1月7日凌晨消息，在游戏平台运营商Zynga宣布将会测试接受虚拟货币作为游戏付款形式之后，比特币的报价在周一回到了1000美元上方。
 

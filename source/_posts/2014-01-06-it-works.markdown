@@ -1,9 +1,11 @@
 ---
 layout: post
-title: "It works"
+title: "开篇词"
 date: 2014-01-06 15:19:47 +0800
 comments: true
 categories: 
 ---
 
-可以工作了。后续添加内容。
+大家好，本站的目标是建设一个由社区维护的开源的高质量Bitcoin/Litecoin中文新闻网站，欢迎访问，您还可以发表评论或通过RSS订阅。
+
+如果您愿意贡献新闻，欢迎到[本站的github 代码库](https://github.com/zhenkyle/bitcoinnews_source)发起pull request。
