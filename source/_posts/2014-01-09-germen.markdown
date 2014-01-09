@@ -1,3 +1,4 @@
+---
 layout: post
 title: "德央行警告比特币风险"
 date: 2014-01-09 
